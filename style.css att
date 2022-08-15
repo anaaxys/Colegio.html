@@ -1,0 +1,57 @@
+body {
+	
+}
+
+#banner {
+	width: 100%;
+}
+
+.principal {
+	background: #B0E0E6;
+	padding: 30px;
+}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 60px;
+	padding-left: 80px;
+}
+
+.titulo-centralizado {
+	font-size: 40px;
+	text-align: center;
+}
+
+p {
+	font-size: 23px;
+	text-align: center;
+}
+
+#missao {
+	font-size: 28px
+}
+
+em strong {
+	color: #191970;
+}
+
+.itens {
+	font-style: italic;
+}
+
+.EtapasdeFormação {
+	background: #FFFFFF;
+	padding: 30px;
+}
+
+ul {
+	display: inline-block;
+	font-size: 25px;
+	vertical-align: top;
+	width: 30%;
+	margin-right: 15%;
+}
+
+.BOMJESUS {
+	width: 100%;
+}

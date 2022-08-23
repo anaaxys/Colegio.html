@@ -2,7 +2,7 @@ body {
 	
 }
 
-#banner {
+#faixada {
 	width: 100%;
 }
 
@@ -12,18 +12,19 @@ body {
 }
 
 .titulo-principal {
+	font-style: Georgia;
 	text-align: center;
-	font-size: 60px;
-	padding-left: 80px;
+	font-size: 70px;
+	padding-left: 90px;
 }
 
 .titulo-centralizado {
-	font-size: 40px;
+	font-size: 39px;
 	text-align: center;
 }
 
 p {
-	font-size: 23px;
+	font-size: 21.5px;
 	text-align: center;
 }
 
@@ -41,7 +42,7 @@ em strong {
 
 .EtapasdeFormação {
 	background: #FFFFFF;
-	padding: 30px;
+	padding: 80px;
 }
 
 ul {
@@ -52,6 +53,12 @@ ul {
 	margin-right: 15%;
 }
 
-.BOMJESUS {
+.frase {
 	width: 100%;
+}
+
+.frase-motivacional{
+	text-align: center;
+	font-style: italic;
+	font-size: 30px;
 }
